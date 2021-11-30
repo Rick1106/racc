@@ -11,7 +11,7 @@ class Program
         while (appIsRunning)
         {
             Console.Clear();
-            Console.WriteLine("Aborea character generator\r");
+            Console.WriteLine("Aborea character creator\r");
             Console.WriteLine("--------------------------\n");
 
             MenuCreator.createMenu(CGeneral.HEADLINE_MAIN_MENU, CGeneral.MAIN_MENU);
