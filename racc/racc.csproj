@@ -10,13 +10,11 @@
     <None Remove="Classes\Characters\" />
     <None Remove="Classes\Constants\" />
     <None Remove="Classes\Pages\" />
-    <None Remove="Tests\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Classes\" />
     <Folder Include="Classes\Characters\" />
     <Folder Include="Classes\Constants\" />
     <Folder Include="Classes\Pages\" />
-    <Folder Include="Tests\" />
   </ItemGroup>
 </Project>
