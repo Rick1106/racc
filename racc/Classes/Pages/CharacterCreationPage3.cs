@@ -10,7 +10,7 @@ namespace Classes.Pages
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("Character creation page 3: Profession choice\r");
+                Console.WriteLine("Character creation page 3: Name choice\r");
                 Console.WriteLine("--------------------------------\n");
 
                 MenuCreator.createMenu(CGeneral.HEADLINE_PAGE_3);
