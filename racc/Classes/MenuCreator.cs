@@ -9,7 +9,7 @@ public class MenuCreator
 
         for (int i = 0; i < items.Length; i++)
         {
-            Console.WriteLine("\t{0}. {1}", i + 1, items[i]);
+            Console.WriteLine($"\t{i+1}. {items[i]}");
         }
     }
 
